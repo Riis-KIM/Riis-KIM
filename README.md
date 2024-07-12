@@ -20,4 +20,4 @@
 </div>
 </div>
 
-<center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)</center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)
