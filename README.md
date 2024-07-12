@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p>email : gunil099@gmail.com
@@ -20,3 +18,4 @@
   </div>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)
