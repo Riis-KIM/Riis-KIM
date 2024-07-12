@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riis-KIM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
   </div>
-  <img src="https://github.com/Riss-KIM/Riss-KIM/blob/output/github-snake-dark.svg" width="100%">
 </div>
 </div>
+
+![snake gif](https://github.com/Riis-KIM/Riis-KIM/blob/output/github-contribution-grid-snake.svg)
