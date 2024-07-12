@@ -11,10 +11,11 @@
         <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
     </div>
     <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riis-KIM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Riis-KIM&theme=tokyonight&show_icons=true" width="45%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riis-KIM&theme=tokyonight&show_icons=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riis-KIM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
   </div>
 </div>
