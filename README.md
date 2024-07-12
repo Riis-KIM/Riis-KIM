@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Riis-KIM/Riis-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)
 
-Here are some ideas to get you started:
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p>email : gunil099@gmail.com
+    <p><strong>🌱 I’m currently learning ...</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+        <img src=https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"/>
+    </div>
+    <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riis-KIM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riis-KIM&theme=tokyonight&show_icons=true" width="80%" />
+</a>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
