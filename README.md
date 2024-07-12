@@ -1,6 +1,7 @@
-## Hi there 👋
+## <center>Hi there 👋</center>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <div align=center>
     <!-- Backend -->
     <p>email : gunil099@gmail.com
     <p><strong>🌱 I’m currently learning ...</strong></p>
@@ -17,5 +18,6 @@
 </a>
   </div>
 </div>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)
+<center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kisses545)](https://solved.ac/kisses545)</center>
