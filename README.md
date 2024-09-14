@@ -19,5 +19,3 @@
   </div>
 </div>
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/Riis-KIM/Riis-KIM/output/github-contribution-grid-snake-dark.svg)
